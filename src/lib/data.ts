@@ -9,7 +9,7 @@ export const projects: Project[] = [
   {
     name: "Fermata",
     description: "",
-    url: "./fermata",
+    url: "https://github.com/crlane/fermata",
     tags: ["TypeScript", "Svelte", "music"],
   },
   {
