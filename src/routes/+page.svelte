@@ -6,7 +6,7 @@
 <section class="hero">
 	<img src="/avatar.jpg" alt="Cameron Lane" class="avatar" />
 	<h1>Cameron Lane</h1>
-	<p class="tagline">Software Engineer</p>
+	<p class="tagline">Erstwhile Educator. Builder. Engineering Leader</p>
 </section>
 
 <section class="social">

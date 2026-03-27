@@ -8,7 +8,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     name: "Fermata",
-    description: "",
+    description: "Music theory and guitar fretboard trainer",
     url: "https://crlane.github.io/fermata",
     tags: ["TypeScript", "Svelte", "music"],
   },
@@ -34,7 +34,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/crlane",
+    url: "https://linkedin.com/in/cameronrlane",
     icon: "linkedin",
   },
 ];
